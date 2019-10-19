@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Steam Games</name>
+        <source_table>x_195545_steam_gam_steam_games</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-19 19:56:32</sys_created_on>
+        <sys_id>860e62d6dbe800109e009fd2ca96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Steam Games</sys_name>
+        <sys_package display_value="Steam Games" source="x_195545_steam_gam">6ddb6652dbe800109e009fd2ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Steam Games">6ddb6652dbe800109e009fd2ca9619c1</sys_scope>
+        <sys_update_name>sys_search_source_860e62d6dbe800109e009fd2ca96190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-19 19:56:32</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=860e62d6dbe800109e009fd2ca96190c"/>
+</record_update>

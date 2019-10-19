@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Steam Games" max_length="40" name="x_195545_steam_gam_steam_games" text_index="true" type="collection">
+        <element label="Community Stats" max_length="65536" name="community_stats" type="html"/>
+        <element label="Game Logo" max_length="65536" name="game_logo" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Game Name" max_length="120" name="game_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Playtime 2Weeks" max_length="40" name="playtime_2weeks" type="glide_time"/>
+        <element label="Playtime Forever" max_length="40" name="playtime_forever" type="glide_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

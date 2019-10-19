@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="game_name" label="Game Name" language="en" table="x_195545_steam_gam_steam_games">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>game_name</element>
+            <help/>
+            <hint/>
+            <label>Game Name</label>
+            <language>en</language>
+            <name>x_195545_steam_gam_steam_games</name>
+            <plural>Game Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-19 19:54:51</sys_created_on>
+            <sys_id>99adaa96dbe800109e009fd2ca961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Game Name</sys_name>
+            <sys_package display_value="Steam Games" source="x_195545_steam_gam">6ddb6652dbe800109e009fd2ca9619c1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Steam Games">6ddb6652dbe800109e009fd2ca9619c1</sys_scope>
+            <sys_update_name>sys_documentation_x_195545_steam_gam_steam_games_game_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-19 19:54:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

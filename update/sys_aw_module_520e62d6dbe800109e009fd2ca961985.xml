@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">1a0e62d6dbe800109e009fd2ca961990</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-home">5012e92bff222300294153bd6338f159</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-19 19:56:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>520e62d6dbe800109e009fd2ca961985</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Steam Games" source="x_195545_steam_gam">6ddb6652dbe800109e009fd2ca9619c1</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="Steam Games">6ddb6652dbe800109e009fd2ca9619c1</sys_scope>
+        <sys_update_name>sys_aw_module_520e62d6dbe800109e009fd2ca961985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-19 19:56:33</sys_updated_on>
+        <toolbar_button display_value="Home Button">da0e62d6dbe800109e009fd2ca961985</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="Steam Games">820e2656dbe800109e009fd2ca961924</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=520e62d6dbe800109e009fd2ca961985"/>
+</record_update>
